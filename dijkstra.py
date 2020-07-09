@@ -24,3 +24,7 @@
 #   NEXT unvisited neighbor
 #   Add the current vertex to the list of visited vertices
 # END WHILE
+
+import math
+
+print(math.inf)
